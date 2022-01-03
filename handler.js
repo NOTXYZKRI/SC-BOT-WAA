@@ -433,8 +433,8 @@ module.exports = handle = (client, Client) => {
             } else {
 				let po = client.prepareMessageFromContent(data.from, {
 					"listMessage":{
-                  "title": "*Helga Gz*",
-                  "description": "pilh on/off",
+                  "title": "*N O T X Y Z K R I*",
+                  "description": "pilih on/off",
                   "buttonText": "COMMANDS",
                   "listType": "SINGLE_SELECT",
                   "sections": [
@@ -503,8 +503,8 @@ module.exports = handle = (client, Client) => {
             } else {
 				let po = client.prepareMessageFromContent(data.from, {
 					"listMessage":{
-                  "title": "*Helga Gz*",
-                  "description": "pilh on/off",
+                  "title": "*N O T X Y Z K R I*",
+                  "description": "pilih on/off",
                   "buttonText": "COMMANDS",
                   "listType": "SINGLE_SELECT",
                   "sections": [
@@ -540,8 +540,8 @@ module.exports = handle = (client, Client) => {
             } else {
 				let po = client.prepareMessageFromContent(data.from, {
 					"listMessage":{
-                  "title": "*Helga Gz*",
-                  "description": "pilh on/off",
+                  "title": "*N O T X Y Z K R I*",
+                  "description": "pilih on/off",
                   "buttonText": "COMMANDS",
                   "listType": "SINGLE_SELECT",
                   "sections": [
@@ -578,8 +578,8 @@ module.exports = handle = (client, Client) => {
             } else {
 				let po = client.prepareMessageFromContent(data.from, {
 					"listMessage":{
-                  "title": "*Helga Gz*",
-                  "description": "pilh on/off",
+                  "title": "*N O T X Y Z K R I*",
+                  "description": "pilih on/off",
                   "buttonText": "COMMANDS",
                   "listType": "SINGLE_SELECT",
                   "sections": [
@@ -616,8 +616,8 @@ module.exports = handle = (client, Client) => {
             } else {
 				let po = client.prepareMessageFromContent(data.from, {
 					"listMessage":{
-                  "title": "*Helga Gz*",
-                  "description": "pilh on/off",
+                  "title": "*N O T X Y Z K R I*",
+                  "description": "pilih on/off",
                   "buttonText": "COMMANDS",
                   "listType": "SINGLE_SELECT",
                   "sections": [
@@ -656,8 +656,8 @@ module.exports = handle = (client, Client) => {
             } else {
 				let po = client.prepareMessageFromContent(data.from, {
 					"listMessage":{
-                  "title": "*Helga Gz*",
-                  "description": "pilh open/close",
+                  "title": "*N O T X Y Z K R I*",
+                  "description": "pilih open/close",
                   "buttonText": "COMMANDS",
                   "listType": "SINGLE_SELECT",
                   "sections": [
@@ -916,7 +916,7 @@ module.exports = handle = (client, Client) => {
  	                 const mediaMsg = await client.prepareMessageMedia(await getBuffer(configs.imgUrl), 'imageMessage')
                      const buttonMessage = {
                            contentText: menu(data.prefix, data.pushname),
-                           footerText: '𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏-𝐁𝐎𝐓',
+                           footerText: '𝘕𝘖𝘛𝘟𝘠𝘡𝘒𝘙𝘐-𝘉𝘖𝘛',
                                 "contextInfo": {
 									  mentionedJid: [configs.ownerList[0]],
                                       participant: sender,
